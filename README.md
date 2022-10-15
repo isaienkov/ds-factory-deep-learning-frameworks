@@ -5,8 +5,10 @@ _______________________________________________________________
 ### Prerequisites
 _______________________________________________________________
     conda >= 4.13.0
+    jupyter-notebook
 
 ### Installation and usage
+_______________________________________________________________
     1. Clone project code from github repostitory:
     git clone https://github.com/isaienkov/ds-factory-deep-learning-frameworks.git
     
@@ -21,7 +23,7 @@ _______________________________________________________________
     4. Set conda environment on your jupyter notebook:
     python -m ipykernel install --user --name=deep-learning-frameworks
 
-    5. Run jupyter and select keras-tf-pytorch.ipynb:
+    5. Run jupyter and select keras-tf-pytorch.ipynb (run not from current env):
     jupyter-notebook
 
     6. Run cells inside the notebook and have a fun!
