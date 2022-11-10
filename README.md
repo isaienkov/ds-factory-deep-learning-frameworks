@@ -1,5 +1,5 @@
 # ds-factory-deep-learning-frameworks
-Source code for paper Deep Learning frameworks comparison by Data Science Factory
+Source code for paper [Deep Learning frameworks comparison](https://www.data-science-factory.com/post/deep-learning-frameworks-comparison) by Data Science Factory
 
 _______________________________________________________________
 ### Prerequisites
